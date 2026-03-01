@@ -24,7 +24,7 @@ The project uses the following dataset:
 - **Rows:** 705  
 - **Columns:** 13  
 - **Dataset Link:**  
- - <a href="https://https://github.com/Krishbelwal/EDA-Student_Dataset/blob/main/Dataset.csv">Dataset</a>
+ - <a href="https://github.com/Krishbelwal/EDA-Student_Dataset/blob/main/Dataset.csv">Dataset</a>
 
 ### Key Features Include:
 
