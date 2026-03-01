@@ -1,8 +1,5 @@
 # 📊 EDA – Student Dataset
 
-## 📌 A Python-based Exploratory Data Analysis on Student Dataset to examine digital platform usage patterns across gender, age, and academic level, and to explore the relationship between screen time, addiction levels, and mental health scores.
-
-
 ## 1. Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a student dataset to understand digital behavior patterns and their potential impact on mental well-being.
