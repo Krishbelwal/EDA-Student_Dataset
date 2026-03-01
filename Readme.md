@@ -41,7 +41,7 @@ The project uses the following dataset:
 ## 3. Tools & Technologies
 
 - **Python**
-- **Pandas** (Data Manipulation)
+- **Pandas**
 - **Matplotlib**
 - **Seaborn**
 - **Jupyter Notebook**
